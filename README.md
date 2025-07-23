@@ -29,9 +29,6 @@ The dataset (`02 Customer Churn-Dataset.xlsx`) contains information such as:
 - Churn status (whether the customer left or stayed)
 
 This data is used to perform:
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Predictive modeling (if extended)
 - Business insights generation
 
 ## How to Use This Project
